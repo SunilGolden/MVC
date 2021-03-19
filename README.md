@@ -12,6 +12,7 @@ View represents the visualization of the data that model contains.
 Controller acts on both model and view. It controls the data flow into model object and updates the view whenever data changes. It keeps view and model separate.
 
 <br />
+<br />
 
 ![Diagram of Simple MVC Pattern](https://www.tutorialspoint.com/design_pattern/images/mvc_pattern_uml_diagram.jpg)
 
